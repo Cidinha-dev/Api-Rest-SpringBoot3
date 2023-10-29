@@ -14,6 +14,6 @@
 - Boas práticas a se adotar no desenvolvimento de uma API Rest;
 
 ![image](https://github.com/Cidinha-dev/VillaPark-Api-Rest-SpringBoot3/assets/85828842/572f46de-4c4b-4420-b29f-3def3e62b52e)
-![image](https://github.com/Cidinha-dev/Api-Rest-SpringBoot3/blob/master/MYSQL%20VILLA%20PARK.png?raw=true)
-![image](https://github.com/Cidinha-dev/Api-Rest-SpringBoot3/blob/master/MYSQL%20VILLA%20PARK.png?raw=true)
+![image](https://github.com/Cidinha-dev/Api-Rest-SpringBoot3/blob/master/token%20JWT.png?raw=true)
+
 
